@@ -1,0 +1,14 @@
+{
+  "version": "V6",
+  "source_sha256": "cb79f6b4f9cc8de458ebbcffc5bb22a149eec39dcad92fc98c629e2d3cfae129",
+  "docx_sha256": "473cd9120987c3edf1ef35ff96d445d393f998ea9423e76de2630580ad03e197",
+  "docx_bytes": 6522829,
+  "original_images_preserved": 25,
+  "original_tables_preserved": 34,
+  "additional_traceability_tables": 1,
+  "references_preserved": 22,
+  "automatic_toc_page_fields": 34,
+  "latest_table_and_cell_format_properties": "preserved",
+  "experiment_table_numbers": "unchanged",
+  "rendered_page_validation": false
+}
